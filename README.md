@@ -1,4 +1,4 @@
-<h1>AIOGRAM 3 shablon django asosida ishlaydi.</h1>
+<h3>AIOGRAM 3 shablon django asosida ishlaydi.</h3>
 
 ```sh
 python -m venv venv
